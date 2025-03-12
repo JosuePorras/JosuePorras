@@ -1,7 +1,7 @@
 # Hi, I'm Josue Porras 👋
 
 ## 🎯 About Me  
-I am a **Junior Systems Engineering Student** at the **National University of Costa Rica** with a strong foundation in software development and a passion for system optimization and problem-solving through technology. I am highly motivated to learn and grow in the tech industry, with experience in developing efficient and scalable solutions.  
+I am a **Systems Engineering Student** at the **National University of Costa Rica** with a strong foundation in software development and a passion for system optimization and problem-solving through technology. I am highly motivated to learn and grow in the tech industry, with experience in developing efficient and scalable solutions.  
 
 ---
 
